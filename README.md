@@ -37,7 +37,7 @@
 <p>The successful implementation of this BI solution will empower Axon to make informed decisions, improve sales strategies, and ultimately enhance its overall business performance in the classic car retail industry.</p>
 
 </p>
-<a href="https://www.novypro.com/project/axon--sales-analysis-project-power-bi" target="_blank">Explore the Interactive Dashboard</a>
+<a href="https://www.novypro.com/project/axon--sales-analysis-project-power-bi" target="_blank">Explore the Interactive Report</a>
 
 <img src="https://drive.google.com/uc?id=1LZdmYX8WUWDOEi0eyz2NJljzLbaVjTH0" alt="Your GIF">
 
