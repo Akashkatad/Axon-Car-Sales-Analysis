@@ -6,11 +6,7 @@
 <h1>Axon Sales Report</h1>
   
 <h2>Description:</h2>
-<p>The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) solution designed to address the data management and analysis challenges faced by Axon, a retailer specializing in classic cars. Axon is currently struggling to efficiently manage and gain meaningful insights from their sales data, leading to difficulties in decision-making processes. To overcome these challenges, this project leverages the capabilities of Microsoft PowerBI and SQL to create a robust BI system tailored to Axon's needs.</p>
-<a href="https://www.novypro.com/project/axon--sales-analysis-project-power-bi" target="_blank">Explore the Interactive Dashboard</a>
-
-<img src="https://drive.google.com/uc?id=1LZdmYX8WUWDOEi0eyz2NJljzLbaVjTH0" alt="Your GIF">
-
+<p>The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) solution designed to address the data management and analysis challenges faced by Axon, a retailer specializing in classic cars. Axon is currently struggling to efficiently manage and gain meaningful insights from their sales data, leading to difficulties in decision-making processes. To overcome these challenges, this project leverages the capabilities of Microsoft PowerBI and SQL to create a robust BI system tailored to Axon's needs.
 
 <h2>Key Features:</h2>
 <ul>
@@ -39,6 +35,11 @@
 
 <h2>Outcome:</h2>
 <p>The successful implementation of this BI solution will empower Axon to make informed decisions, improve sales strategies, and ultimately enhance its overall business performance in the classic car retail industry.</p>
+
+</p>
+<a href="https://www.novypro.com/project/axon--sales-analysis-project-power-bi" target="_blank">Explore the Interactive Dashboard</a>
+
+<img src="https://drive.google.com/uc?id=1LZdmYX8WUWDOEi0eyz2NJljzLbaVjTH0" alt="Your GIF">
 
 </body>
 </html>
